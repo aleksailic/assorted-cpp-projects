@@ -1,4 +1,4 @@
-# assorted-cpp-projects
+# assorted-projects
 Collection of projects that are not big enough for their own repository
 
 File description:
